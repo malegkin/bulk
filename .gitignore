@@ -1,0 +1,8 @@
+cmake-build-*
+*.code-workspace
+tmp
+.git
+.idea
+build
+*.o
+*.so
